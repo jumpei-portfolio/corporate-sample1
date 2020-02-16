@@ -1,0 +1,7 @@
+.ul_header {
+  display: table;
+}
+
+.li_header {
+  display: table-cell;
+}
