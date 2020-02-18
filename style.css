@@ -1,9 +1,19 @@
+.header {
+  height: 81px;
+  box-sizing: border-box;
+}
+
 .ul_header {
   display: table;
 }
 
 .li_header {
   display: table-cell;
+}
+
+.header_button {
+  height: 80px;
+  line-height: 80px;
 }
 
 .table-cell {
